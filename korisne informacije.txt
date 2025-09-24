@@ -1,0 +1,18 @@
+javascript tutorial: https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc&index=1
+nodejs video tutorial: https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=2
+absolute vs relative urls: https://stackoverflow.com/questions/2005079/absolute-vs-relative-urls
+optional values in ejs templates:https://www.solarwinter.net/ejs-and-optional-values/
+
+
+nodemon alternativa: 
+node --inspect --watch-path=./ ./app.js
+
+database sql injection:
+https://planetscale.com/blog/how-to-prevent-sql-injection-attacks-in-node-js
+https://www.programmerinterview.com/database-sql/example-of-prepared-statements-and-sql-injection-prevention/
+
+- git commands
+
+delete local and remote branch named promises-version
+git branch -d promises-version ; git push origin --delete promises-version
+git remote update origin --prune - refresh list of local branches
